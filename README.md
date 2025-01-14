@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Ahmed-Khaled-Abdelmaksod/Ahmed-Khaled-Abdelmaksod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
