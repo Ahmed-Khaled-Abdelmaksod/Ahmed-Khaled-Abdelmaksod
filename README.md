@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **computer and systems engineering @Ain_Shams_University**
 
+- 🔭 I’m currently working on my graduation project (A tool to control and visualize Zigbee network)
+
 - 📫 How to reach me **ahmed.khaled.abdelmaksod11@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1OMNMdoD0qdT5QVeB4YPu8Hn9oF9xXe7R](https://drive.google.com/drive/folders/1OMNMdoD0qdT5QVeB4YPu8Hn9oF9xXe7R)
