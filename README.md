@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ahmed Khaled <img width = "30" length="30" src="https://private-user-images.githubusercontent.com/114930002/309351590-db7b2fe1-5ff5-491c-9fec-3e13af7b3bfb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY4NzIwMTYsIm5iZiI6MTczNjg3MTcxNiwicGF0aCI6Ii8xMTQ5MzAwMDIvMzA5MzUxNTkwLWRiN2IyZmUxLTVmZjUtNDkxYy05ZmVjLTNlMTNhZjdiM2JmYi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDExNFQxNjIxNTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMTU4Mzk0Mzk0YTFhMWVmODI2ZmVlYzI1MmE0N2ZhYzI3YzlkYmQ2YTNlZDNjMDhlOTVmZjFhYjVmNjY4Zjc4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.iffEBGm74_WhYvDSMVMgYliYwLy6AL6Dxm8k-rRaLBc"></h1>
-<h3 align="center">An Embedded Software Developer from Egypt</h3>
+<h3 align="center">A Software Developer from Egypt</h3>
 <h3 align="left"><img width = "30" length="30" src ="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">About me:</h3>
 
 - 🌱 I’m currently learning **computer and systems engineering @Ain_Shams_University**
